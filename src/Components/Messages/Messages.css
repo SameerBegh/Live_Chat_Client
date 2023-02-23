@@ -1,0 +1,9 @@
+.Messages_list{
+   display: flex;
+   padding: 2% 0;
+   overflow: auto;
+   height: 80%;
+}
+::-webkit-scrollbar{
+   display: none;
+}

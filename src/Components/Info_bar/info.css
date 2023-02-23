@@ -1,0 +1,16 @@
+.yes_btn {
+    text-decoration: none;
+    color: black;
+}
+
+.group_icon {
+    display: none;
+}
+
+
+
+@media (max-width:950px) {
+    .group_icon {
+        display: flex;
+    }
+}
